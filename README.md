@@ -21,6 +21,19 @@ print(timer)
 ```
 Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa. 
 
+[![Captura-de-pantalla-2023-04-25-200725.png](https://i.postimg.cc/xCm8d1jJ/Captura-de-pantalla-2023-04-25-200725.png)](https://postimg.cc/JD1M6mkM)
+
+Existe una diferencia "significativa" desde la serie 200000 como se puede ver en la imagen 
+
 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
+[![Captura-de-pantalla-2023-04-25-202748.png](https://i.postimg.cc/fLMd1dfW/Captura-de-pantalla-2023-04-25-202748.png)](https://postimg.cc/R3bqHNY2)
+
+[![Captura-de-pantalla-2023-04-25-202818.png](https://i.postimg.cc/1tRgvQyf/Captura-de-pantalla-2023-04-25-202818.png)](https://postimg.cc/7CcYLjGk)
+
+
 6. Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
+
+[![Captura-de-pantalla-2023-04-25-203611.png](https://i.postimg.cc/qv50PHcN/Captura-de-pantalla-2023-04-25-203611.png)](https://postimg.cc/750pzcW4)
+
+JAJAJA puse cargo de auxiliar no se porque jajaja pero bueno tal vez en un futuro me salga algo.
