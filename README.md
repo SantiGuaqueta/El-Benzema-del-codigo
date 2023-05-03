@@ -1,6 +1,8 @@
 # El-Benzema-del-codigo
 ## Primero que todo
+
 [![Captura-de-pantalla-2023-04-25-184220.png](https://i.postimg.cc/bJL3G3Ft/Captura-de-pantalla-2023-04-25-184220.png)](https://postimg.cc/DJJqHdhv)
+
 
 ## Ahora si empecemos
 El dia de hoy resolveremos este reto numero 9 que tiene los siguientes puntos:
